@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пока что тест приложение</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="thursday">Четверг</string>
+    <string name="wednesday">Среда</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="enter_name">Введите имя ученика</string>
+    <string name="enter_time">Введите время</string>
+    <string name="back">Назад</string>
+    <string name="add_student">Добавить</string>
+    <string name="lesson">занятие</string>
+    <string name="delete_student">Удалить</string>
+</resources>

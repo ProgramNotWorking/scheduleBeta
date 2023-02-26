@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerViewForFutureApp</string>
+    <string name="monday">monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="enter_name">Enter student name</string>
+    <string name="enter_time">Enter time</string>
+    <string name="back">Back</string>
+    <string name="add_student">Add</string>
+    <string name="lesson">lesson</string>
+    <string name="delete_student">Delete</string>
+</resources>
